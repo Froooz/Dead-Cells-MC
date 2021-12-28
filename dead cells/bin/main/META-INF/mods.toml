@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Apache 2.0"
+
+[[mods]]
+modId="deadcells"
+version="1.0"
+displayName="Dead Cells"
+displayURL="https://github.com/Froooz/Dead-Cells-MC" 
+logoFile="logo.png"
+credits=""
+authors="Frooz, Bunko, Fuzzy04" 
+description='''
+A mod which adds items, mechanics and mobs from the dungeon crawler game dead cells
+'''
